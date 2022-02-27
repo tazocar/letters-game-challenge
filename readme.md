@@ -42,6 +42,7 @@ https://nodejs.org/es/
    npm run dev
    ```
 <p align="right">(<a href="#top">back to top</a>)</p>
+
 ## 😄 Juega!
 
 Y descubre cuantas palabras puedes encontrar!
