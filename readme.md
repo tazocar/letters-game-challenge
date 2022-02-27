@@ -3,7 +3,7 @@
 # Letters Game Challenge
 
 
-IMG
+<img src="https://github.com/tazocar/letters-game-challenge/blob/main/src/img/letters-game-desktop.png?raw=true" alt="drawing" width="1000"/>
 
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Typescript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
