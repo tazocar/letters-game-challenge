@@ -20,7 +20,9 @@
 - [x] Las letras solo pueden ser seleccionadas una vez.
 - [x] Solo estarán disponibles las letras que rodean a la última letra seleccionada. __[ Extra ]__
 - [x] Validar la existencia de la palabra creada en el diccionario entregado. __[ Extra ]__
-  
+ 
+* [Ver Demo](https://enara-game-challenge.netlify.app/)
+
 ---
 ## 💻 Pré-requisitos
 1. Nodejs
